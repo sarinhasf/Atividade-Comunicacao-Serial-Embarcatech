@@ -76,8 +76,6 @@ Siga os passos abaixo para clonar o repositório, importar no VS Code usando a e
  - Escolha a versão do SDK 2.1.0
  - Clique em "Import"
 
-
-
 ## Desenvolvedora:
  
 <table>
